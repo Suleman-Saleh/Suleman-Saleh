@@ -19,7 +19,7 @@
 
 ## 👋 About me
 
-I'm **Malik Muhammad Suleman Saleh**, a final-year **BS Computer Science** student at **COMSATS University Islamabad, Lahore Campus** (2023–2027) and a **freelance full-stack developer**.
+I'm **Malik Muhammad Suleman Saleh**, **freelance full-stack developer**.
 
 I like the whole path from idea to something people can use: the interface, the API behind it, the data, the tests, and the deploy. Lately that has meant putting machine-learning models behind secure, tested web platforms, and automating lead generation and screening work that people were doing by hand.
 
